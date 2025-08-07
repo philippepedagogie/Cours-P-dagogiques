@@ -1,0 +1,1144 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO Meta Tags -->
+    <title>Philippe-pédagogie - Cours à Domicile & Formation Informatique Aboisso</title>
+    <meta name="description" content="Cours particuliers à domicile et en ligne du CP1 à la Terminale à Aboisso. Formation informatique bureautique. Boutique fournitures scolaires. 85% de réussite BEPC/BAC.">
+    <meta name="keywords" content="cours particuliers Aboisso, soutien scolaire Côte d'Ivoire, formation informatique, fournitures scolaires, BEPC, BAC, Philippe pédagogie">
+    <meta name="author" content="Philippe-pédagogie">
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="French">
+    <meta name="revisit-after" content="7 days">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://philippe-pedagogie.com/">
+    <meta property="og:title" content="Philippe-pédagogie - Cours à Domicile & Formation Informatique Aboisso">
+    <meta property="og:description" content="Cours particuliers à domicile et en ligne du CP1 à la Terminale à Aboisso. Formation informatique bureautique. 85% de réussite BEPC/BAC.">
+    <meta property="og:image" content="https://philippe-pedagogie.com/images/og-image.jpg">
+    <meta property="og:site_name" content="Philippe-pédagogie">
+    <meta property="og:locale" content="fr_FR">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://philippe-pedagogie.com/">
+    <meta property="twitter:title" content="Philippe-pédagogie - Cours à Domicile & Formation Informatique Aboisso">
+    <meta property="twitter:description" content="Cours particuliers à domicile et en ligne du CP1 à la Terminale à Aboisso. Formation informatique bureautique. 85% de réussite BEPC/BAC.">
+    <meta property="twitter:image" content="https://philippe-pedagogie.com/images/twitter-image.jpg">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://philippe-pedagogie.com/">
+    
+    <!-- Preconnect for performance -->
+    <link rel="preconnect" href="https://cdn.tailwindcss.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    
+    <!-- Schema.org structured data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "EducationalOrganization",
+        "name": "Philippe-pédagogie",
+        "description": "Cours particuliers à domicile et en ligne du CP1 à la Terminale à Aboisso. Formation informatique bureautique.",
+        "url": "https://philippe-pedagogie.com",
+        "logo": "https://philippe-pedagogie.com/images/logo.png",
+        "image": "https://philippe-pedagogie.com/images/og-image.jpg",
+        "telephone": "+225-01-23-32-32",
+        "email": "philippepedagogie@gmail.com",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Rive gauche",
+            "addressLocality": "Aboisso",
+            "addressCountry": "CI"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "5.4667",
+            "longitude": "-3.2000"
+        },
+        "areaServed": {
+            "@type": "Place",
+            "name": "Aboisso, Côte d'Ivoire"
+        },
+        "serviceType": [
+            "Cours particuliers",
+            "Soutien scolaire",
+            "Formation informatique",
+            "Fournitures scolaires"
+        ],
+        "priceRange": "10000-25000 FCFA",
+        "sameAs": [
+            "https://www.facebook.com/profile.php?id=",
+            "https://www.instagram.com/philippesoutienscolaire",
+            "https://youtube.com/@philippebassole-z3x",
+            "https://t.me/Philippeharrelson"
+        ]
+    }
+    </script>
+    
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'GA_MEASUREMENT_ID');
+    </script>
+    
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-XXXXXXX');</script>
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'primary-green': '#10B981',
+                        'primary-blue': '#3B82F6',
+                        'primary-purple': '#8B5CF6',
+                        'light-green': '#D1FAE5',
+                        'light-blue': '#DBEAFE',
+                        'light-purple': '#EDE9FE'
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        .gradient-bg {
+            background: linear-gradient(135deg, #10B981 0%, #3B82F6 50%, #8B5CF6 100%);
+        }
+        .card-hover {
+            transition: all 0.3s ease;
+        }
+        .card-hover:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Animations flottantes pour les icônes */
+        .floating-item {
+            position: absolute;
+            font-size: 3rem;
+            animation: float 6s ease-in-out infinite;
+        }
+        
+        @keyframes float {
+            0%, 100% { transform: translateY(0px) rotate(0deg); }
+            25% { transform: translateY(-20px) rotate(5deg); }
+            50% { transform: translateY(-10px) rotate(-5deg); }
+            75% { transform: translateY(-15px) rotate(3deg); }
+        }
+        
+        /* Animations d'entrée */
+        .animate-fade-in {
+            animation: fadeIn 1.5s ease-out;
+        }
+        
+        .animate-slide-up {
+            animation: slideUp 1.5s ease-out 0.3s both;
+        }
+        
+        .animate-bounce-in {
+            animation: bounceIn 1.5s ease-out 0.6s both;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        @keyframes slideUp {
+            from { opacity: 0; transform: translateY(50px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        @keyframes bounceIn {
+            0% { opacity: 0; transform: scale(0.3); }
+            50% { opacity: 1; transform: scale(1.05); }
+            70% { transform: scale(0.9); }
+            100% { opacity: 1; transform: scale(1); }
+        }
+        
+        /* Animation de pulsation pour les cartes */
+        .pulse-on-hover:hover {
+            animation: pulse 0.6s ease-in-out;
+        }
+        
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+            100% { transform: scale(1); }
+        }
+        
+        /* Animation de rotation pour le logo */
+        .logo-hover:hover {
+            animation: logoSpin 0.8s ease-in-out;
+        }
+        
+        @keyframes logoSpin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        /* Animation de glissement pour les éléments de navigation */
+        .nav-item {
+            position: relative;
+            transition: all 0.3s ease;
+        }
+        
+        .nav-item::after {
+            content: '';
+            position: absolute;
+            width: 0;
+            height: 2px;
+            bottom: -5px;
+            left: 50%;
+            background: linear-gradient(90deg, #10B981, #3B82F6, #8B5CF6);
+            transition: all 0.3s ease;
+            transform: translateX(-50%);
+        }
+        
+        .nav-item:hover::after {
+            width: 100%;
+        }
+        
+        /* Animation de vague pour le background */
+        .wave-bg {
+            background: linear-gradient(-45deg, #10B981, #3B82F6, #8B5CF6, #10B981);
+            background-size: 400% 400%;
+            animation: gradientWave 15s ease infinite;
+        }
+        
+        @keyframes gradientWave {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+        
+        /* Animation de typewriter pour le texte */
+        .typewriter {
+            overflow: hidden;
+            border-right: 3px solid white;
+            white-space: nowrap;
+            animation: typing 3s steps(40, end), blink-caret 0.75s step-end infinite;
+        }
+        
+        @keyframes typing {
+            from { width: 0; }
+            to { width: 100%; }
+        }
+        
+        @keyframes blink-caret {
+            from, to { border-color: transparent; }
+            50% { border-color: white; }
+        }
+        
+        /* Animation de particules */
+        .particle {
+            position: absolute;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 50%;
+            animation: particleFloat 8s linear infinite;
+        }
+        
+        @keyframes particleFloat {
+            0% { transform: translateY(100vh) rotate(0deg); opacity: 0; }
+            10% { opacity: 1; }
+            90% { opacity: 1; }
+            100% { transform: translateY(-100px) rotate(360deg); opacity: 0; }
+        }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-XXXXXXX"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- Navigation -->
+    <nav class="bg-white shadow-lg sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-16">
+                <div class="flex items-center">
+                    <div class="flex items-center space-x-3">
+                        <!-- Logo SVG -->
+                        <div class="relative logo-hover">
+                            <svg width="70" height="70" viewBox="0 0 70 70" class="drop-shadow-lg">
+                                <!-- Carré violet aux angles arrondis -->
+                                <rect x="7" y="7" width="56" height="56" rx="12" ry="12" fill="#8B5CF6" stroke="white" stroke-width="3"/>
+                                <!-- Lettres PP en blanc -->
+                                <text x="35" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="26" font-weight="bold">PP</text>
+                            </svg>
+                        </div>
+                        <!-- Nom et slogan -->
+                        <div class="flex flex-col">
+                            <div class="text-3xl font-bold text-gray-800">
+                                <span class="text-primary-green">Philippe</span><span class="text-primary-blue">-</span><span class="text-primary-purple">pédagogie</span>
+                            </div>
+                            <div class="text-xs text-gray-600 font-medium">
+                                Excellence • Innovation • Réussite
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="hidden md:flex space-x-8">
+                    <a href="#accueil" class="nav-item text-gray-700 hover:text-primary-blue font-medium">Accueil</a>
+                    <a href="#cours" class="nav-item text-gray-700 hover:text-primary-blue font-medium">Cours</a>
+                    <a href="#informatique" class="nav-item text-gray-700 hover:text-primary-blue font-medium">Informatique</a>
+                    <a href="#boutique" class="nav-item text-gray-700 hover:text-primary-blue font-medium">Boutique</a>
+                    <a href="#inscription" class="nav-item text-gray-700 hover:text-primary-blue font-medium">Inscription</a>
+                    <a href="#temoignages" class="nav-item text-gray-700 hover:text-primary-blue font-medium">Témoignages</a>
+                    <a href="#contact" class="nav-item text-gray-700 hover:text-primary-blue font-medium">Contact</a>
+                </div>
+                <div class="md:hidden">
+                    <button id="mobile-menu-btn" class="text-gray-700">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <!-- Mobile menu -->
+        <div id="mobile-menu" class="hidden md:hidden bg-white border-t">
+            <div class="px-2 pt-2 pb-3 space-y-1">
+                <a href="#accueil" class="block px-3 py-2 text-gray-700 hover:text-primary-blue">Accueil</a>
+                <a href="#cours" class="block px-3 py-2 text-gray-700 hover:text-primary-blue">Cours</a>
+                <a href="#informatique" class="block px-3 py-2 text-gray-700 hover:text-primary-blue">Informatique</a>
+                <a href="#boutique" class="block px-3 py-2 text-gray-700 hover:text-primary-blue">Boutique</a>
+                <a href="#inscription" class="block px-3 py-2 text-gray-700 hover:text-primary-blue">Inscription</a>
+                <a href="#temoignages" class="block px-3 py-2 text-gray-700 hover:text-primary-blue">Témoignages</a>
+                <a href="#contact" class="block px-3 py-2 text-gray-700 hover:text-primary-blue">Contact</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="accueil" class="wave-bg text-white py-20 relative overflow-hidden">
+        <!-- Animated Background -->
+        <div class="absolute inset-0 opacity-10">
+            <div class="floating-item" style="top: 10%; left: 5%; animation-delay: 0s;">📚</div>
+            <div class="floating-item" style="top: 20%; right: 10%; animation-delay: 1s;">💻</div>
+            <div class="floating-item" style="top: 30%; left: 15%; animation-delay: 2s;">✏️</div>
+            <div class="floating-item" style="top: 40%; right: 20%; animation-delay: 3s;">📐</div>
+            <div class="floating-item" style="top: 50%; left: 8%; animation-delay: 4s;">🖥️</div>
+            <div class="floating-item" style="top: 60%; right: 15%; animation-delay: 5s;">📝</div>
+            <div class="floating-item" style="top: 70%; left: 20%; animation-delay: 6s;">🖨️</div>
+            <div class="floating-item" style="top: 15%; left: 50%; animation-delay: 1.5s;">📊</div>
+            <div class="floating-item" style="top: 35%; right: 5%; animation-delay: 2.5s;">🎯</div>
+            <div class="floating-item" style="top: 55%; left: 40%; animation-delay: 3.5s;">💡</div>
+            <div class="floating-item" style="top: 75%; right: 30%; animation-delay: 4.5s;">🔬</div>
+            <div class="floating-item" style="top: 25%; left: 70%; animation-delay: 0.5s;">📱</div>
+        </div>
+        
+        <!-- Purple zone with white slogan -->
+        <div class="absolute top-0 left-0 right-0 bg-primary-purple bg-opacity-20 py-4">
+            <div class="text-center">
+                <div class="text-2xl font-bold text-white animate-pulse">
+                    Excellence • Innovation • Réussite
+                </div>
+            </div>
+        </div>
+        
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10 mt-16">
+            <h1 class="text-4xl md:text-6xl font-bold mb-6 animate-fade-in">
+                Réussissez avec Philippe-pédagogie
+            </h1>
+            <p class="text-xl md:text-2xl mb-8 opacity-90 animate-slide-up">
+                Cours à domicile et en ligne du CP1 à la Terminale + Boutique de fournitures
+            </p>
+            <div class="flex flex-col sm:flex-row gap-4 justify-center animate-bounce-in">
+                <button onclick="scrollToSection('inscription')" class="bg-white text-primary-blue px-8 py-3 rounded-full font-semibold hover:bg-gray-100 transition duration-300 transform hover:scale-105">
+                    S'inscrire maintenant
+                </button>
+                <button onclick="scrollToSection('cours')" class="border-2 border-white text-white px-8 py-3 rounded-full font-semibold hover:bg-white hover:text-primary-blue transition duration-300 transform hover:scale-105">
+                    Découvrir nos cours
+                </button>
+                <button onclick="scrollToSection('informatique')" class="border-2 border-white text-white px-6 py-3 rounded-full font-semibold hover:bg-white hover:text-primary-purple transition duration-300 transform hover:scale-105">
+                    Formation IT
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Statistiques Section -->
+    <section class="py-16 bg-gradient-to-r from-primary-green via-primary-blue to-primary-purple text-white relative overflow-hidden">
+        <!-- Background decoratif -->
+        <div class="absolute inset-0 opacity-10">
+            <div class="floating-item" style="top: 15%; left: 10%; animation-delay: 0s;">🏆</div>
+            <div class="floating-item" style="top: 25%; right: 15%; animation-delay: 1s;">📊</div>
+            <div class="floating-item" style="top: 35%; left: 20%; animation-delay: 2s;">🎯</div>
+            <div class="floating-item" style="top: 45%; right: 25%; animation-delay: 3s;">⭐</div>
+            <div class="floating-item" style="top: 55%; left: 15%; animation-delay: 4s;">📈</div>
+            <div class="floating-item" style="top: 65%; right: 10%; animation-delay: 5s;">🎓</div>
+        </div>
+        
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold mb-4">Nos Résultats Parlent d'Eux-Mêmes</h2>
+                <p class="text-xl opacity-90">4 ans d'expérience, des résultats exceptionnels</p>
+            </div>
+            
+            <div class="grid md:grid-cols-4 gap-8">
+                <!-- Taux de réussite BEPC/BAC -->
+                <div class="text-center bg-white bg-opacity-20 backdrop-blur-sm rounded-2xl p-8 card-hover">
+                    <div class="text-5xl font-bold mb-4 animate-bounce-in">85%</div>
+                    <div class="text-lg font-semibold mb-2">Taux de Réussite</div>
+                    <p class="text-sm opacity-90">BEPC et BAC combinés</p>
+                    <div class="mt-4 text-3xl">🏆</div>
+                </div>
+                
+                <!-- Nombre d'élèves suivis -->
+                <div class="text-center bg-white bg-opacity-20 backdrop-blur-sm rounded-2xl p-8 card-hover">
+                    <div class="text-5xl font-bold mb-4 animate-bounce-in">100+</div>
+                    <div class="text-lg font-semibold mb-2">Élèves Suivis</div>
+                    <p class="text-sm opacity-90">Depuis notre création</p>
+                    <div class="mt-4 text-3xl">👨‍🎓</div>
+                </div>
+                
+                <!-- Années d'expérience -->
+                <div class="text-center bg-white bg-opacity-20 backdrop-blur-sm rounded-2xl p-8 card-hover">
+                    <div class="text-5xl font-bold mb-4 animate-bounce-in">4</div>
+                    <div class="text-lg font-semibold mb-2">Années d'Expérience</div>
+                    <p class="text-sm opacity-90">D'excellence pédagogique</p>
+                    <div class="mt-4 text-3xl">📚</div>
+                </div>
+                
+                <!-- Satisfaction -->
+                <div class="text-center bg-white bg-opacity-20 backdrop-blur-sm rounded-2xl p-8 card-hover">
+                    <div class="text-5xl font-bold mb-4 animate-bounce-in">98%</div>
+                    <div class="text-lg font-semibold mb-2">Satisfaction</div>
+                    <p class="text-sm opacity-90">Parents et élèves</p>
+                    <div class="mt-4 text-3xl">⭐</div>
+                </div>
+            </div>
+            
+            <!-- Détails des résultats -->
+            <div class="mt-12 bg-white bg-opacity-10 backdrop-blur-sm rounded-2xl p-8">
+                <div class="text-center mb-8">
+                    <h3 class="text-2xl font-bold mb-4">Détail de nos Performances</h3>
+                </div>
+                
+                <div class="grid md:grid-cols-2 gap-8">
+                    <div class="text-center">
+                        <div class="bg-white bg-opacity-20 rounded-xl p-6">
+                            <h4 class="text-xl font-bold mb-4">🎓 Réussite BEPC</h4>
+                            <div class="text-3xl font-bold mb-2">87%</div>
+                            <p class="text-sm opacity-90">Sur 45 élèves de 3ème suivis</p>
+                            <div class="mt-4 bg-white bg-opacity-20 rounded-lg p-3">
+                                <div class="text-sm">
+                                    <span class="font-semibold">Mentions obtenues :</span><br>
+                                    Très Bien: 15% • Bien: 25% • Assez Bien: 47%
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="text-center">
+                        <div class="bg-white bg-opacity-20 rounded-xl p-6">
+                            <h4 class="text-xl font-bold mb-4">🏆 Réussite BAC</h4>
+                            <div class="text-3xl font-bold mb-2">83%</div>
+                            <p class="text-sm opacity-90">Sur 55 élèves de Terminale suivis</p>
+                            <div class="mt-4 bg-white bg-opacity-20 rounded-lg p-3">
+                                <div class="text-sm">
+                                    <span class="font-semibold">Mentions obtenues :</span><br>
+                                    Très Bien: 12% • Bien: 22% • Assez Bien: 49%
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Progression moyenne -->
+                <div class="mt-8 text-center">
+                    <div class="bg-white bg-opacity-20 rounded-xl p-6">
+                        <h4 class="text-xl font-bold mb-4">📈 Progression Moyenne des Élèves</h4>
+                        <div class="grid md:grid-cols-3 gap-6">
+                            <div>
+                                <div class="text-2xl font-bold mb-2">+3.2</div>
+                                <p class="text-sm opacity-90">Points de moyenne générale</p>
+                            </div>
+                            <div>
+                                <div class="text-2xl font-bold mb-2">92%</div>
+                                <p class="text-sm opacity-90">Élèves ayant progressé</p>
+                            </div>
+                            <div>
+                                <div class="text-2xl font-bold mb-2">6 mois</div>
+                                <p class="text-sm opacity-90">Délai moyen d'amélioration</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="text-center mt-8">
+                <p class="text-lg opacity-90 mb-4">
+                    "Ces résultats reflètent notre engagement envers chaque élève"
+                </p>
+                <button onclick="scrollToSection('inscription')" class="bg-white text-primary-blue px-8 py-3 rounded-full font-semibold hover:bg-gray-100 transition duration-300 transform hover:scale-105">
+                    Rejoignez nos élèves qui réussissent !
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section class="py-16 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Nos Services</h2>
+                <p class="text-xl text-gray-600">Une approche complète pour votre réussite scolaire</p>
+            </div>
+            <div class="grid md:grid-cols-3 gap-8">
+                <div class="card-hover pulse-on-hover bg-light-green p-8 rounded-xl text-center">
+                    <div class="text-4xl mb-4">🏠</div>
+                    <h3 class="text-xl font-bold text-primary-green mb-4">Cours à Domicile</h3>
+                    <p class="text-gray-600">Professeurs qualifiés qui se déplacent chez vous pour un accompagnement personnalisé</p>
+                </div>
+                <div class="card-hover pulse-on-hover bg-light-blue p-8 rounded-xl text-center">
+                    <div class="text-4xl mb-4">💻</div>
+                    <h3 class="text-xl font-bold text-primary-blue mb-4">Cours en Ligne</h3>
+                    <p class="text-gray-600">Plateforme interactive avec cours en direct et supports pédagogiques</p>
+                </div>
+                <div class="card-hover pulse-on-hover bg-light-purple p-8 rounded-xl text-center">
+                    <div class="text-4xl mb-4">🛍️</div>
+                    <h3 class="text-xl font-bold text-primary-purple mb-4">Boutique</h3>
+                    <p class="text-gray-600">Fournitures scolaires et bureautiques de qualité à prix compétitifs</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Formation Informatique Section -->
+    <section id="informatique" class="py-16 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Formation en Informatique</h2>
+                <p class="text-xl text-gray-600">Maîtrisez les outils numériques d'aujourd'hui et de demain</p>
+            </div>
+            
+            <!-- Formations disponibles -->
+            <div class="grid md:grid-cols-2 gap-8 mb-12 max-w-4xl mx-auto">
+                <div class="bg-light-blue p-8 rounded-xl shadow-lg card-hover">
+                    <div class="text-5xl mb-6 text-center">💻</div>
+                    <h3 class="text-2xl font-bold text-primary-blue mb-6 text-center">Bureautique</h3>
+                    <ul class="text-gray-600 space-y-3 mb-8 text-lg">
+                        <li>• Microsoft Office (Word, Excel, PowerPoint)</li>
+                        <li>• Google Workspace (Docs, Sheets, Slides)</li>
+                        <li>• Gestion et organisation de fichiers</li>
+                        <li>• Création de documents professionnels</li>
+                        <li>• Tableaux et calculs avancés</li>
+                        <li>• Présentations dynamiques</li>
+                    </ul>
+                    <div class="text-center bg-white p-4 rounded-lg">
+                        <div class="text-lg font-bold text-primary-blue mb-2">À domicile: 25 000 FCFA/mois</div>
+                        <div class="text-lg font-bold text-primary-green">En ligne: 10 000 FCFA/mois</div>
+                    </div>
+                </div>
+
+                <div class="bg-light-green p-8 rounded-xl shadow-lg card-hover">
+                    <div class="text-5xl mb-6 text-center">🌐</div>
+                    <h3 class="text-2xl font-bold text-primary-green mb-6 text-center">Internet & Communication</h3>
+                    <ul class="text-gray-600 space-y-3 mb-8 text-lg">
+                        <li>• Navigation internet efficace</li>
+                        <li>• Gestion des emails professionnels</li>
+                        <li>• Recherche d'informations en ligne</li>
+                        <li>• Sécurité sur internet</li>
+                        <li>• Téléchargements et installations</li>
+                        <li>• Réseaux sociaux et communication</li>
+                    </ul>
+                    <div class="text-center bg-white p-4 rounded-lg">
+                        <div class="text-lg font-bold text-primary-blue mb-2">À domicile: 25 000 FCFA/mois</div>
+                        <div class="text-lg font-bold text-primary-green">En ligne: 10 000 FCFA/mois</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Avantages formation IT -->
+            <div class="bg-gradient-to-r from-primary-blue to-primary-purple text-white rounded-2xl p-8 mb-8">
+                <div class="text-center mb-8">
+                    <h3 class="text-2xl font-bold mb-4">Pourquoi choisir nos formations IT ?</h3>
+                </div>
+                <div class="grid md:grid-cols-3 gap-6">
+                    <div class="text-center">
+                        <div class="text-3xl mb-3">🎯</div>
+                        <h4 class="font-bold mb-2">Formation Pratique</h4>
+                        <p class="text-sm opacity-90">Projets concrets et mise en situation réelle</p>
+                    </div>
+                    <div class="text-center">
+                        <div class="text-3xl mb-3">👨‍💻</div>
+                        <h4 class="font-bold mb-2">Formateurs Experts</h4>
+                        <p class="text-sm opacity-90">Professionnels avec expérience terrain</p>
+                    </div>
+                    <div class="text-center">
+                        <div class="text-3xl mb-3">📜</div>
+                        <h4 class="font-bold mb-2">Certification</h4>
+                        <p class="text-sm opacity-90">Attestation de formation reconnue</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="text-center">
+                <button onclick="openContactModal()" class="gradient-bg text-white px-8 py-4 rounded-full font-semibold text-lg hover:opacity-90 transition duration-300">
+                    Réserver une formation IT
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Cours Section -->
+    <section id="cours" class="py-16 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Nos Cours</h2>
+                <p class="text-xl text-gray-600">Du CP1 à la Terminale, toutes les matières</p>
+            </div>
+            
+            <!-- Niveaux -->
+            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
+                <div class="bg-white p-6 rounded-lg shadow-md card-hover">
+                    <h3 class="font-bold text-primary-green text-lg mb-2">Primaire</h3>
+                    <p class="text-gray-600 text-sm mb-4">CP1, CP2, CE1, CE2, CM1, CM2</p>
+                    <ul class="text-sm text-gray-600 space-y-1">
+                        <li>• Français</li>
+                        <li>• Mathématiques</li>
+                        <li>• Sciences</li>
+                        <li>• Anglais</li>
+                    </ul>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-md card-hover">
+                    <h3 class="font-bold text-primary-blue text-lg mb-2">Collège</h3>
+                    <p class="text-gray-600 text-sm mb-4">6ème, 5ème, 4ème, 3ème</p>
+                    <ul class="text-sm text-gray-600 space-y-1">
+                        <li>• Toutes matières</li>
+                        <li>• Préparation BEPC</li>
+                        <li>• Soutien scolaire</li>
+                        <li>• Méthodologie</li>
+                    </ul>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-md card-hover">
+                    <h3 class="font-bold text-primary-purple text-lg mb-2">Seconde</h3>
+                    <p class="text-gray-600 text-sm mb-4">Classe de Seconde</p>
+                    <ul class="text-sm text-gray-600 space-y-1">
+                        <li>• Orientation</li>
+                        <li>• Renforcement</li>
+                        <li>• Toutes matières</li>
+                        <li>• Préparation 1ère</li>
+                    </ul>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-md card-hover">
+                    <h3 class="font-bold text-primary-green text-lg mb-2">Terminale</h3>
+                    <p class="text-gray-600 text-sm mb-4">1ère et Terminale</p>
+                    <ul class="text-sm text-gray-600 space-y-1">
+                        <li>• Préparation BAC</li>
+                        <li>• Spécialisations</li>
+                        <li>• Examens blancs</li>
+                        <li>• Orientation post-BAC</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Tarifs -->
+            <div class="bg-white rounded-xl p-8 shadow-lg">
+                <h3 class="text-2xl font-bold text-center mb-8">Nos Tarifs Mensuels</h3>
+                <div class="grid md:grid-cols-2 gap-8">
+                    <div class="text-center">
+                        <h4 class="text-xl font-bold text-primary-blue mb-4">Cours à Domicile</h4>
+                        <div class="space-y-2">
+                            <p class="text-gray-600">Tous niveaux: <span class="font-bold text-primary-green text-2xl">25 000 FCFA/mois</span></p>
+                            <p class="text-sm text-gray-500">Primaire • Collège • Lycée</p>
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <h4 class="text-xl font-bold text-primary-purple mb-4">Cours en Ligne</h4>
+                        <div class="space-y-2">
+                            <p class="text-gray-600">Tous niveaux: <span class="font-bold text-primary-blue text-2xl">10 000 FCFA/mois</span></p>
+                            <p class="text-sm text-gray-500">Primaire • Collège • Lycée</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-center mt-8">
+                    <button onclick="openContactModal()" class="gradient-bg text-white px-8 py-3 rounded-full font-semibold hover:opacity-90 transition duration-300">
+                        Réserver un cours
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Boutique Section -->
+    <section id="boutique" class="py-16 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Notre Boutique</h2>
+                <p class="text-xl text-gray-600">Fournitures scolaires et bureautiques de qualité</p>
+            </div>
+
+            <!-- Catégories -->
+            <div class="flex flex-wrap justify-center gap-4 mb-8">
+                <button onclick="filterProducts('all')" class="filter-btn bg-primary-blue text-white px-6 py-2 rounded-full font-medium">Tout</button>
+                <button onclick="filterProducts('scolaire')" class="filter-btn bg-gray-200 text-gray-700 px-6 py-2 rounded-full font-medium hover:bg-primary-green hover:text-white">Scolaire</button>
+                <button onclick="filterProducts('bureautique')" class="filter-btn bg-gray-200 text-gray-700 px-6 py-2 rounded-full font-medium hover:bg-primary-purple hover:text-white">Bureautique</button>
+                <button onclick="filterProducts('papeterie')" class="filter-btn bg-gray-200 text-gray-700 px-6 py-2 rounded-full font-medium hover:bg-primary-blue hover:text-white">Papeterie</button>
+            </div>
+
+            <!-- Produits -->
+            <div id="products-grid" class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+                <!-- Produits scolaires -->
+                <div class="product-card scolaire bg-white rounded-lg shadow-md overflow-hidden card-hover">
+                    <div class="h-48 bg-light-green flex items-center justify-center">
+                        <span class="text-6xl">📚</span>
+                    </div>
+                    <div class="p-4">
+                        <h3 class="font-bold text-lg mb-2">Cahiers d'exercices</h3>
+                        <p class="text-gray-600 text-sm mb-3">Cahiers 100 pages, grands carreaux</p>
+                        <div class="flex justify-between items-center">
+                            <span class="text-primary-green font-bold">2 500 FCFA</span>
+                            <button onclick="addToCart('Cahiers d\'exercices', 2500)" class="bg-primary-green text-white px-4 py-2 rounded-lg text-sm hover:bg-green-600">Ajouter</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-card scolaire bg-white rounded-lg shadow-md overflow-hidden card-hover">
+                    <div class="h-48 bg-light-blue flex items-center justify-center">
+                        <span class="text-6xl">✏️</span>
+                    </div>
+                    <div class="p-4">
+                        <h3 class="font-bold text-lg mb-2">Kit de crayons</h3>
+                        <p class="text-gray-600 text-sm mb-3">Set complet crayons de couleur</p>
+                        <div class="flex justify-between items-center">
+                            <span class="text-primary-blue font-bold">3 000 FCFA</span>
+                            <button onclick="addToCart('Kit de crayons', 3000)" class="bg-primary-blue text-white px-4 py-2 rounded-lg text-sm hover:bg-blue-600">Ajouter</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-card bureautique bg-white rounded-lg shadow-md overflow-hidden card-hover">
+                    <div class="h-48 bg-light-purple flex items-center justify-center">
+                        <span class="text-6xl">🖥️</span>
+                    </div>
+                    <div class="p-4">
+                        <h3 class="font-bold text-lg mb-2">Calculatrice scientifique</h3>
+                        <p class="text-gray-600 text-sm mb-3">Casio FX-82MS, idéale lycée</p>
+                        <div class="flex justify-between items-center">
+                            <span class="text-primary-purple font-bold">15 000 FCFA</span>
+                            <button onclick="addToCart('Calculatrice scientifique', 15000)" class="bg-primary-purple text-white px-4 py-2 rounded-lg text-sm hover:bg-purple-600">Ajouter</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-card papeterie bg-white rounded-lg shadow-md overflow-hidden card-hover">
+                    <div class="h-48 bg-light-green flex items-center justify-center">
+                        <span class="text-6xl">📝</span>
+                    </div>
+                    <div class="p-4">
+                        <h3 class="font-bold text-lg mb-2">Stylos Bic</h3>
+                        <p class="text-gray-600 text-sm mb-3">Pack de 10 stylos bleus</p>
+                        <div class="flex justify-between items-center">
+                            <span class="text-primary-green font-bold">1 500 FCFA</span>
+                            <button onclick="addToCart('Stylos Bic', 1500)" class="bg-primary-green text-white px-4 py-2 rounded-lg text-sm hover:bg-green-600">Ajouter</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-card bureautique bg-white rounded-lg shadow-md overflow-hidden card-hover">
+                    <div class="h-48 bg-light-blue flex items-center justify-center">
+                        <span class="text-6xl">🖨️</span>
+                    </div>
+                    <div class="p-4">
+                        <h3 class="font-bold text-lg mb-2">Ramette papier A4</h3>
+                        <p class="text-gray-600 text-sm mb-3">500 feuilles, 80g/m²</p>
+                        <div class="flex justify-between items-center">
+                            <span class="text-primary-blue font-bold">4 000 FCFA</span>
+                            <button onclick="addToCart('Ramette papier A4', 4000)" class="bg-primary-blue text-white px-4 py-2 rounded-lg text-sm hover:bg-blue-600">Ajouter</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-card scolaire bg-white rounded-lg shadow-md overflow-hidden card-hover">
+                    <div class="h-48 bg-light-purple flex items-center justify-center">
+                        <span class="text-6xl">📐</span>
+                    </div>
+                    <div class="p-4">
+                        <h3 class="font-bold text-lg mb-2">Kit géométrie</h3>
+                        <p class="text-gray-600 text-sm mb-3">Règle, équerre, compas, rapporteur</p>
+                        <div class="flex justify-between items-center">
+                            <span class="text-primary-purple font-bold">5 500 FCFA</span>
+                            <button onclick="addToCart('Kit géométrie', 5500)" class="bg-primary-purple text-white px-4 py-2 rounded-lg text-sm hover:bg-purple-600">Ajouter</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Section commande personnalisée -->
+            <div class="mt-12 bg-gradient-to-r from-primary-purple to-primary-blue text-white rounded-xl p-8">
+                <div class="text-center mb-6">
+                    <h3 class="text-2xl font-bold mb-4">🔍 Article introuvable ?</h3>
+                    <p class="text-lg opacity-90">Demandez-nous n'importe quel article scolaire ou bureautique !</p>
+                </div>
+                
+                <div class="grid md:grid-cols-3 gap-6 mb-8">
+                    <div class="text-center bg-white bg-opacity-20 backdrop-blur-sm rounded-xl p-6">
+                        <div class="text-4xl mb-3">📝</div>
+                        <h4 class="font-bold mb-2">Décrivez l'article</h4>
+                        <p class="text-sm opacity-90">Nom, marque, caractéristiques</p>
+                    </div>
+                    <div class="text-center bg-white bg-opacity-20 backdrop-blur-sm rounded-xl p-6">
+                        <div class="text-4xl mb-3">⏱️</div>
+                        <h4 class="font-bold mb-2">Réponse rapide</h4>
+                        <p class="text-sm opacity-90">Devis sous 24h maximum</p>
+                    </div>
+                    <div class="text-center bg-white bg-opacity-20 backdrop-blur-sm rounded-xl p-6">
+                        <div class="text-4xl mb-3">🚚</div>
+                        <h4 class="font-bold mb-2">Livraison garantie</h4>
+                        <p class="text-sm opacity-90">Nous trouvons tout !</p>
+                    </div>
+                </div>
+                
+                <div class="text-center">
+                    <button onclick="openCustomOrderModal()" class="bg-white text-primary-purple px-8 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition duration-300 transform hover:scale-105">
+                        Demander un article
+                    </button>
+                </div>
+            </div>
+
+            <!-- Panier -->
+            <div class="mt-8 bg-gray-100 rounded-xl p-6">
+                <div class="flex justify-between items-center mb-4">
+                    <h3 class="text-xl font-bold">Panier</h3>
+                    <button onclick="clearCart()" class="text-red-500 hover:text-red-700">Vider</button>
+                </div>
+                <div id="cart-items" class="space-y-2 mb-4">
+                    <p class="text-gray-500">Votre panier est vide</p>
+                </div>
+                <div class="flex justify-between items-center pt-4 border-t">
+                    <span class="text-xl font-bold">Total: <span id="cart-total">0 FCFA</span></span>
+                    <button onclick="checkout()" class="gradient-bg text-white px-6 py-3 rounded-lg font-semibold hover:opacity-90 transition duration-300">
+                        Commander
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Inscription Section -->
+    <section id="inscription" class="py-16 bg-white">
+        <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Inscription</h2>
+                <p class="text-xl text-gray-600">Rejoignez Philippe-pédagogie et commencez votre parcours vers la réussite</p>
+            </div>
+            
+            <div class="bg-gradient-to-r from-primary-blue to-primary-purple text-white rounded-2xl p-8 mb-8">
+                <div class="text-center mb-6">
+                    <h3 class="text-2xl font-bold mb-4">🎓 Pourquoi nous choisir ?</h3>
+                </div>
+                <div class="grid md:grid-cols-3 gap-6">
+                    <div class="text-center">
+                        <div class="text-4xl mb-3">⭐</div>
+                        <h4 class="font-bold mb-2">Excellence Pédagogique</h4>
+                        <p class="text-sm opacity-90">Professeurs qualifiés et méthodes éprouvées</p>
+                    </div>
+                    <div class="text-center">
+                        <div class="text-4xl mb-3">📈</div>
+                        <h4 class="font-bold mb-2">Résultats Garantis</h4>
+                        <p class="text-sm opacity-90">95% de réussite aux examens</p>
+                    </div>
+                    <div class="text-center">
+                        <div class="text-4xl mb-3">🤝</div>
+                        <h4 class="font-bold mb-2">Suivi Personnalisé</h4>
+                        <p class="text-sm opacity-90">Accompagnement individuel de chaque élève</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-white rounded-xl shadow-lg p-8">
+                <h3 class="text-2xl font-bold text-center mb-8">Formulaire d'inscription</h3>
+                <form id="inscription-form" class="space-y-6">
+                    <!-- Informations élève -->
+                    <div class="bg-light-blue p-6 rounded-lg">
+                        <h4 class="text-lg font-bold text-primary-blue mb-4">👨‍🎓 Informations de l'élève</h4>
+                        <div class="grid md:grid-cols-2 gap-4">
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700 mb-2">Nom complet *</label>
+                                <input type="text" required class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-blue focus:border-transparent">
+                            </div>
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700 mb-2">Date de naissance *</label>
+                                <input type="date" required class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-blue focus:border-transparent">
+                            </div>
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700 mb-2">Niveau scolaire *</label>
+                                <select required class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-blue focus:border-transparent">
+                                    <option value="">Choisir un niveau</option>
+                                    <optgroup label="Primaire">
+                                        <option value="cp1">CP1</option>
+                                        <option value="cp2">CP2</option>
+                                        <option value="ce1">CE1</option>
+                                        <option value="ce2">CE2</option>
+                                        <option value="cm1">CM1</option>
+                                        <option value="cm2">CM2</option>
+                                    </optgroup>
+                                    <optgroup label="Collège">
+                                        <option value="6eme">6ème</option>
+                                        <option value="5eme">5ème</option>
+                                        <option value="4eme">4ème</option>
+                                        <option value="3eme">3ème</option>
+                                    </optgroup>
+                                    <optgroup label="Lycée">
+                                        <option value="2nde">Seconde</option>
+                                        <option value="1ere">Première</option>
+                                        <option value="tle">Terminale</option>
+                                    </optgroup>
+                                </select>
+                            </div>
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700 mb-2">École actuelle</label>
+                                <input type="text" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-blue focus:border-transparent">
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Informations parent/tuteur -->
+                    <div class="bg-light-green p-6 rounded-lg">
+                        <h4 class="text-lg font-bold text-primary-green mb-4">👨‍👩‍👧‍👦 Informations du parent/tuteur</h4>
+                        <div class="grid md:grid-cols-2 gap-4">
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700 mb-2">Nom complet *</label>
+                                <input type="text" required class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-green focus:border-transparent">
+                            </div>
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700 mb-2">Lien de parenté *</label>
+                                <select required class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-green focus:border-transparent">
+                                    <option value="">Choisir</option>
+                                    <option value="pere">Père</option>
+                                    <option value="mere">Mère</option>
+                                    <option value="tuteur">Tuteur/Tutrice</option>
+                                    <option value="autre">Autre</option>
+                                </select>
+                            </div>
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700 mb-2">Téléphone *</label>
+                                <input type="tel" required class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-green focus:border-transparent">
+                            </div>
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700 mb-2">Email *</label>
+                                <input type="email" required class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-green focus:border-transparent">
+                            </div>
+                        </div>
+                        <div class="mt-4">
+                            <label class="block text-sm font-medium text-gray-700 mb-2">Adresse complète *</label>
+                            <textarea rows="2" required class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-green focus:border-transparent"></textarea>
+                        </div>
+                    </div>
+
+                    <!-- Choix des services -->
+                    <div class="bg-light-purple p-6 rounded-lg">
+                        <h4 class="text-lg font-bold text-primary-purple mb-4">📚 Services souhaités</h4>
+                        <div class="space-y-4">
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700 mb-2">Type de cours *</label>
+                                <div class="grid md:grid-cols-2 gap-4">
+                                    <label class="flex items-center p-4 border border-gray-300 rounded-lg cursor-pointer hover:bg-gray-50">
+                                        <input type="radio" name="type_cours" value="domicile" required class="mr-3">
+                                        <div>
+                                            <div class="font-medium">Cours à domicile</div>
+                                            <div class="text-sm text-gray-600">25 000 FCFA/mois</div>
+                                        </div>
+                                    </label>
+                                    <label class="flex items-center p-4 border border-gray-300 rounded-lg cursor-pointer hover:bg-gray-50">
+                                        <input type="radio" name="type_cours" value="ligne" required class="mr-3">
+                                        <div>
+                                            <div class="font-medium">Cours en ligne</div>
+                                            <div class="text-sm text-gray-600">10 000 FCFA/mois</div>
+                                        </div>
+                                    </label>
+                                </div>
+                            </div>
+                            
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700 mb-2">Matières souhaitées *</label>
+                                <div class="grid md:grid-cols-3 gap-2">
+                                    <label class="flex items-center">
+                                        <input type="checkbox" name="matieres" value="mathematiques" class="mr-2">
+                                        Mathématiques
+                                    </label>
+                                    <label class="flex items-center">
+                                        <input type="checkbox" name="matieres" value="francais" class="mr-2">
+                                        Français
+                                    </label>
+                                    <label class="flex items-center">
+                                        <input type="checkbox" name="matieres" value="anglais" class="mr-2">
+                                        Anglais
+                                    </label>
+                                    <label class="flex items-center">
+                                        <input type="checkbox" name="matieres" value="sciences" class="mr-2">
+                                        Sciences
+                                    </label>
+                                    <label class="flex items-center">
+                                        <input type="checkbox" name="matieres" value="histoire" class="mr-2">
+                                        Histoire-Géo
+                                    </label>
+                                    <label class="flex items-center">
+                                        <input type="checkbox" name="matieres" value="informatique" class="mr-2">
+                                        Informatique
+                                    </label>
+                                </div>
+                            </div>
+
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700 mb-2">Créneaux préférés</label>
+                                <div class="grid md:grid-cols-2 gap-2">
+                                    <label class="flex items-center">
+                                        <input type="checkbox" name="creneaux" value="matin" class="mr-2">
+                                        Matin (8h-12h)
+                                    </label>
+                                    <label class="flex items-center">
+                                        <input type="checkbox" name="creneaux" value="apres-midi" class="mr-2">
+                                        Après-midi (14h-18h)
+                                    </label>
+                                    <label class="flex items-center">
+                                        <input type="checkbox" name="creneaux" value="soir" class="mr-2">
+                                        Soir (18h-20h)
+                                    </label>
+                                    <label class="flex items-center">
+                                        <input type="checkbox" name="creneaux" value="weekend" class="mr-2">
+                                        Weekend
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Informations complémentaires -->
+                    <div>
+                        <label class="block text-sm font-medium text-gray-700 mb-2">Besoins spécifiques ou commentaires</label>
+                        <textarea rows="4" placeholder="Décrivez les difficultés de l'élève, objectifs particuliers, etc." class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-blue focus:border-transparent"></textarea>
+                    </div>
+
+                    <!-- Conditions -->
+                    <div class="bg-gray-50 p-4 rounded-lg">
+                        <label class="flex items-start">
+                            <input type="checkbox" required class="mr-3 mt-1">
+                            <span class="text-sm text-gray-700">
+                                J'accepte les <a href="#" class="text-primary-blue hover:underline">conditions générales</a> et autorise Philippe-pédagogie à traiter les données personnelles pour le suivi pédagogique de mon enfant.
+                            </span>
+                        </label>
+                    </div>
+
+                    <div class="text-center">
+                        <button type="submit" class="gradient-bg text-white px-12 py-4 rounded-full font-semibold text-lg hover:opacity-90 transition duration-300 transform hover:scale-105">
+                            Finaliser l'inscription
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Témoignages Section -->
+    <section id="temoignages" class="py-16 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Témoignages</h2>
+                <p class="text-xl text-gray-600">Ce que disent nos élèves et leurs parents</p>
+            </div>
+
+            <!-- Témoignages existants -->
+            <div class="grid md:grid-cols-3 gap-8 mb-12">
+                <div class="bg-white p-6 rounded-xl shadow-lg card-hover">
+                    <div class="flex items-center mb-4">
+                        <div class="w-12 h-12 bg-primary-green rounded-full flex items-center justify-center text-white font-bold text-lg">A</div>
+                        <div class="ml-4">
+                            <h4 class="font-bold">Aminata K.</h4>
+                            <p class="text-sm text-gray-600">Élève en Terminale</p>
+                        </div>
+                    </div>
+                    <div class="text-yellow-400 mb-3">⭐⭐⭐⭐⭐</div>
+                    <p class="text-gray-700 italic">"Grâce aux cours de M. Philippe, j'ai réussi mon BAC avec mention Bien ! Il est très patient et explique très bien. Un enseignant de grand talent !"</p>
+                </div>
+
+                <div class="bg-white p-6 rounded-xl shadow-lg card-hover">
+                    <div class="flex items-center mb-4">
+                        <div class="w-12 h-12 bg-primary-blue rounded-full flex items-center justify-center text-white font-bold text-lg">M</div>
+                        <div class="ml-4">
+                            <h4 class="font-bold">Mme Kouassi</h4>
+                            <p class="text-sm text-gray-600">Parent d'élève</p>
+                        </div>
+                    </div>
+                    <div class="text-yellow-400 mb-3">⭐⭐⭐⭐⭐</div>
+                    <p class="text-gray-700 italic">"Mon fils était en difficulté en mathématiques. Après 3 mois de cours avec M. Philippe, ses notes ont considérablement amélioré. Un formateur efficace à domicile !"</p>
+                </div>
+
+                <div class="bg-white p-6 rounded-xl shadow-lg card-hover">
+                    <div class="flex items-center mb-4">
+                        <div class="w-12 h-12 bg-primary-purple rounded-full flex items-center justify-center text-white font-bold text-lg">K</div>
+                        <div class="ml-4">
+                            <h4 class="font-bold">Kofi A.</h4>
+                            <p class="text-sm text-gray-600">Élève en 3ème</p>
+                        </div>
+                    </div>
+                    <div class="text-yellow-400 mb-3">⭐⭐⭐⭐⭐</div>
+                    <p class="text-gray-700 italic">"Les cours en ligne avec M. Philippe sont super pratiques ! Je peux étudier depuis chez moi et poser toutes mes questions. J'ai eu mon BEPC grâce à lui !"</p>
+                </div>
+
+                <div class="bg-white p-6 rounded-xl shadow-lg card-hover">
+                    <div class="flex items-center mb-4">
+                        <div class="w-12 h-12 bg-primary-green rounded-full flex items-center justify-center text-white font-bold text-lg">F</div>
+                        <div class="ml-4">
+                            <h4 class="font-bold">Fatou D.</h4>
+                            <p class="text-sm text-gray-600">Formation Informatique</p>
+                        </div>
+                    </div>
+                    <div class="text-yellow-400 mb-3">⭐⭐⭐⭐⭐</div>
+                    <p class="text-gray-700 italic">"La formation bureautique avec M. Philippe m'a permis de décrocher un emploi ! Il est compétent et à l'écoute. Un formateur efficace !"</p>
+                </div>
+
+                <div class="bg-white p-6 rounded-xl shadow-lg card-hover">
+                    <div class="flex items-center mb-4">
+                        <div class="w-12 h-12 bg-primary-blue rounded-full flex items-center justify-center text-white font-bold text-lg">J</div>
+                        <div class="ml-4">
+                            <h4 class="font-bold">Jean-Baptiste</h4>
+                            <p class="text-sm text-gray-600">Élève en 1ère</p>
+                        </div>
+                    </div>
+                    <div class="text-yellow-400 mb-3">⭐⭐⭐⭐⭐</div>
+                    <p class="text-gray-700 italic">"Excellent suivi personnalisé ! M. Philippe adapte les cours à mon rythme. Un enseignant de grand talent que je recommande vivement."</p>
+                </div>
+
+                <div class="bg-white p-6 rounded-xl shadow-lg card-hover">
+                    <div class="flex items-center mb-4">
+                        <div class="w-12 h-12 bg-primary-purple rounded-full flex items-center justify-center text-white font-bold text-lg">S</div>
+                        <div class="ml-4">
+                            <h4 class="font-bold">Sarah M.</h4>
+                            <p class="text-sm text-gray-600">Élève en CM2</p>
+                        </div>
+                    </div>
+                    <div class="text-yellow-400 mb-3">⭐⭐⭐⭐⭐</div>
+                    <p class="text-gray-700 italic">"J'adore mes cours ! M. Philippe est très gentil et m'aide beaucoup. Maintenant je suis première de ma classe grâce à lui !"</p>
+                </div>
+            </div>
+
+            <!-- Formulaire de témoignage -->
+            <div class="bg-white rounded-xl shadow-lg p-8">
+                <div class="text-center mb-8">
+                    <h3 class="text-2xl font-bold text-gray-900 mb-4">Partagez votre expérience</h3>
+                    <p class="text-gray-600">Votre témoignage peut aider d'autres élèves à faire le bon choix</p>
+                </div>
+                
+                <form id="testimonial-form" class="max-w-2xl mx-auto space-y-6">
+                    <div class="grid md:grid-cols-2 gap-4">
